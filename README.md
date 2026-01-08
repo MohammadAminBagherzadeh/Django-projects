@@ -1,6 +1,6 @@
 # Django Projects
 
-This repository contains several Django web applications that I have built as part of my learning process while studying web development with Django. The projects demonstrate my understanding of backend web development, routing, models, templates, and working with data in a web context using Python and Django.
+This repository contains one Django web application that I have built as part of my learning process while studying web development with Django. The projects demonstrate my understanding of backend web development, routing, models, templates, and working with data in a web context using Python and Django.
 
 These projects reflect both guided course work and independent practice, showing my ability to create real web applications with dynamic features and user interaction.
 
